@@ -1,7 +1,7 @@
 {
   "name": "atq-types",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "types": "dist/main.d.mts",
   "repository": {
     "type": "git",
