@@ -4,14 +4,14 @@ This package provides TypeScript type definitions for the Kleros ATQ (Arbitrable
 
 ## Installation
 
-You can install `kleros-atq-types` via npm or yarn:
+You can install `@kleros/atq-types` via npm or yarn:
 
 ```bash
-npm install kleros-atq-types
+npm install @kleros/atq-types
 ```
-# or
+or
 ```bash
-yarn add kleros-atq-types
+yarn add @kleros/atq-types
 ```
 
 ## Usage
