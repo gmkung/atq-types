@@ -1,8 +1,8 @@
 {
   "name": "atq-types",
   "type": "module",
-  "version": "1.0.4",
-  "types": "main.d.mts",
+  "version": "1.0.5",
+  "types": "dist/main.d.mts",
   "description": "Type definitions for Kleros ATQ registry",
   "main": "main.mjs",
   "scripts": {
